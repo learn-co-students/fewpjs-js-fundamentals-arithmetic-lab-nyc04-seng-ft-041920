@@ -14,6 +14,6 @@ let random = Math.floor(Math.random() * 10) + 1;
 //Create a variable called `mod` set to an equation whose remainder is equal to "4".
 let mod = 28 % 8;
 
-//4. Create a variable called `max` that will return "20" as the highest number in the set.
+//Create a variable called `max` that will return "20" as the highest number in the set.
 
 let max = Math.max(10, 19, 3, 20);
